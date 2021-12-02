@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Test App</string>
+
+    <!--  TOAST Sunmi  -->
+    <string name="toast_1">Transaction print,use the AIDL mode!</string>
+    <string name="toast_2">The service has been disconnected!</string>
+    <string name="toast_3">Bluetooth device is unavailable</string>
+    <string name="toast_4">Bluetooth device not detected. Please open Bluetooth!</string>
+    <string name="toast_5">Not Found InnterPrinter!</string>
+    <string name="toast_6">Bluetooth connect failed!</string>
+    <string name="toast_7"> Only a single Qr code is printed for the AIDL mode</string>
+    <string name="toast_8">Now QrCode size must be less than 7!</string>
+    <string name="toast_9">BarCode type or conent error!</string>
+    <string name="toast_cancel_add_image">Batal Ambil Gambar</string>
+
+    <!--Dialog-->
+    <string name="dialog_error">Error</string>
+    <string name="dialog_warning">Warning</string>
+    <string name="dialog_success">Success</string>
+    <string name="dialog_ok">Ok</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="please_Wait">Mohon menunggu</string>
+    <string name="error_cancel">Error cancel transaction, please try again</string>
+
+    <string name="log_out">Log out</string>
+    <string name="connection_error">Koneksi error</string>
+    <string name="connection_error_hint">Silahkan coba kembali beberapa saat lagi</string>
+    <string name="cancel_confirmation">Apakah Anda ingin membatalkan transaksi?</string>
+</resources>
